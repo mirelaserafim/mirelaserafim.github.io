@@ -1,0 +1,29 @@
+<div style="display: flex; align-items: center; gap: 30px;">
+
+<img src="images/profile.jpg" width="200px" style="border-radius: 10px;">
+
+<div>
+
+### About
+Hi, my name is Mirela Barros Serafim. I'm a spatial data analyst with a PhD in Geography focused on health geography. Throughout my career, I have contributed to many projects in sustainable urban development, environmental science, socioeconomic analysis, and public health, consistently integrating vulnerable populations through field-specific approaches.
+
+</div>
+</div>
+
+---
+
+<div style="display: flex; justify-content: center; gap: 25px; margin-top: 30px; font-size: 28px;">
+
+<a href="https://www.linkedin.com/in/mirela-b-21927b100" target="_blank">
+<i class="fa-brands fa-linkedin"></i>
+</a>
+
+<a href="https://www.researchgate.net/profile/Mirela-Serafim" target="_blank">
+<i class="ai ai-researchgate"></i>
+</a>
+
+<a href="https://orcid.org/0000-0003-4843-8485" target="_blank">
+<i class="ai ai-orcid"></i>
+</a>
+
+</div>
