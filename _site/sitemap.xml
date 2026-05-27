@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mirelaserafim.github.io/papers.html</loc>
+    <loc>https://mirelaserafim.github.io/talks.html</loc>
+    <lastmod>2026-05-27T00:53:05.810Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mirelaserafim.github.io/index.html</loc>
     <lastmod>2026-05-26T23:58:02.444Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mirelaserafim.github.io/blog.html</loc>
+    <lastmod>2026-05-27T00:51:50.521Z</lastmod>
   </url>
   <url>
     <loc>https://mirelaserafim.github.io/about.html</loc>
     <lastmod>2026-05-26T23:58:02.444Z</lastmod>
   </url>
   <url>
-    <loc>https://mirelaserafim.github.io/index.html</loc>
+    <loc>https://mirelaserafim.github.io/editorialwork.html</loc>
+    <lastmod>2026-05-27T00:51:44.868Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mirelaserafim.github.io/papers.html</loc>
     <lastmod>2026-05-26T23:58:02.444Z</lastmod>
   </url>
 </urlset>
