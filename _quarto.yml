@@ -3,6 +3,9 @@ project:
 
 website:
   title: "Mirela Barros Serafim"
+  site-url: "https://mirelaserafim.github.io"
+  sitemap: true
+  description: "PhD in Geography (Health Geography) | Spatial data analyst"
   navbar:
     left:
       - href: papers.qmd
@@ -16,6 +19,7 @@ website:
 
 format:
   html:
+    include-in-header: _meta.html
     theme:
       - cosmo
       - brand
