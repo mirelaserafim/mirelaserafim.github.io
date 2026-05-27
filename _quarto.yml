@@ -19,13 +19,9 @@ website:
 
 format:
   html:
-    include-in-header: _meta.html
     theme:
       - cosmo
       - brand
     css: styles.css
     toc: true
-    include-in-header:
-      text: |
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css">
+    include-in-header: _meta.html
