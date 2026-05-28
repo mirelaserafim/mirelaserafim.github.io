@@ -7,12 +7,20 @@ website:
   description: "PhD in Geography (Health Geography) | Spatial data analyst"
   navbar:
     left:
+      - href: education.qmd
+        text: "Education"
       - href: papers.qmd
         text: "Publications"
-      - href: talks.qmd
-        text: "Talks and presentations"
+      - href: professionalexperience.qmd
+        text: "Professional Experience"
       - href: editorialwork.qmd
         text: "Editorial Work"
+      - href: teaching.qmd
+        text: "Teaching"
+      - href: talks.qmd
+        text: "Talks and presentations"
+      - href: scientificservice.qmd
+        text: "Other Scientific & Academic Services"
       - href: blog.qmd
         text: "The Geographic Perspective"
 
