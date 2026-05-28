@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Website under construction",
-    "section": "",
-    "text": "…"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
     "title": "Mirela Barros Serafim",
     "section": "",
-    "text": "About\nHi, my name is Mirela Barros Serafim. I’m a spatial data analyst with a PhD in Geography focused on health geography. Throughout my career, I have contributed to many projects in sustainable urban development, environmental science, socioeconomic analysis, and public health, consistently integrating vulnerable populations through field-specific approaches.\n\n\nCore Competencies • GIS for sustainable development • Geospatial data processing, spatial modeling, and cartography • Data analysis, statistical modeling, and reproducible research workflows • Teaching, training facilitation, and academic mentoring • Scientific communication and international research collaboration"
+    "text": "#Teaching Assistant, Department of Geography, University of São Paulo (USP), Brazil - Jul – Dec 2021 | Planning - Jul – Dec 2019 | Urban Geography - Jul – Dec 2018 | Remote Sensing Applied to Geography - Jan – Jun 2018 | Spatial Analysis and Geoprocessing\n#Course Instructor, Department of Geography, University of São Paulo (USP), Brazil - Oct 2019 | Data Handling and Analysis Using SPSS Software"
   },
   {
-    "objectID": "editorialwork.html",
-    "href": "editorialwork.html",
-    "title": "Editorial Work",
+    "objectID": "scientificservice.html",
+    "href": "scientificservice.html",
+    "title": "Mirela Barros Serafim",
     "section": "",
-    "text": "Peer Reviewer\n\nInternational Journal of Public Health\nCities & Health\nCambridge Prisms: Global Mental Health\nPLOS ONE\nHygeia: Brazilian Journal of Medical and Health Geography\n\n\n\nEditorial Board\n\nSouth American Publishing: Southern Studies"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Website under construction",
-    "section": "",
-    "text": "…"
+    "text": "##Member of Organizing Committees - International Seminar of Young Researchers in Geography (University of Coimbra, Portugal) (2025) - 24th National Oceanography Week (Federal University of Santa Catarina, Brazil) (2012)\n##Member of Scientific Committees -International Seminar of Young Researchers in Geography (University of Coimbra, Portugal) (2025) - III National Meeting of Geography Students (University of Évora, Portugal) (2023)\n##External Ad Hoc Consultant - Research proposal evaluation, State University of Tocantins, Brazil (Apr–Jul 2025)\n##Member of examination committees -Undergraduate theses (4), Department of Geography, University of São Paulo, Brazil (2019–2025)\n##Entrepreneurship & academic leadership -Co-founder and Project Manager, Tétis Junior Enterprise of Oceanography, Federal University of Santa Catarina, Brazil (2009–2011)"
   },
   {
     "objectID": "papers.html",
@@ -77,17 +56,24 @@
     "text": "#Formal education\n-PhD in Human Geography, University of Coimbra (UC), Portugal | 2022 – Present -PhD in Physical Geography, University of São Paulo (USP), Brazil | 2017 – 2023 -Bachelor’s Degree in Geography, Claretian University Center (Claretiano), Brazil | 2016 – 2020 -MSc in Geological Oceanography, Oceanographic Institute of the University of São Paulo (IOUSP), Brazil | 2015 – 2017 -Bachelor’s Degree in Oceanography, Federal University of Santa Catarina (UFSC), Brazil | 2010 – 2014\n#Additional training\n2025 | Impact Evaluation of Policies and Programs (2 ECTS) – Maastricht University & UN University-MERIT (Online)\n2019 | Linear Regression (30 hours) – Federal University of Minas Gerais (UFMG), Brazil\n2018 | Quantitative Analysis Using SPSS (20 hours) – Brazilian Center for Analysis and Planning (CEBRAP), Brazil\n2018 | Programming and Computational Tools for the Social Sciences (120 hours) – University of São Paulo (USP), Brazil\n2018 | Socio-territorial Diagnosis for the Development of Social Policies (32 hours) – FESPSP, Brazil\n2017 | Python Data Structures (20 hours) – University of Michigan (Online)\n2017 | Programming Your Own Spatial Analyses in Python (4 hours) – Rio de Janeiro State University (UERJ, Online)\n2016 | Digital Processing of Remote Sensing Images (40 hours) – Rio de Janeiro State University (UERJ, Online)\n2016 | Geostatistics: Fundamentals and Applications (24 hours) – Geokrigagem, Brazil\n2012 | MATLAB for Oceanographic Analysis (4 hours) – Federal University of Santa Catarina (UFSC), Brazil\n2010 | Principles and Practices of ArcGIS 9.3 (30 hours) – TÉTIS Junior Oceanography Enterprise, UFSC, Brazil\n\nLanguages\n\nPortuguese – Native\nEnglish – Advanced\nSpanish – Advanced\nFrench – Elementary"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Mirela Barros Serafim",
+    "objectID": "editorialwork.html",
+    "href": "editorialwork.html",
+    "title": "Editorial Work",
     "section": "",
-    "text": "#Teaching Assistant, Department of Geography, University of São Paulo (USP), Brazil - Jul – Dec 2021 | Planning - Jul – Dec 2019 | Urban Geography - Jul – Dec 2018 | Remote Sensing Applied to Geography - Jan – Jun 2018 | Spatial Analysis and Geoprocessing\n#Course Instructor, Department of Geography, University of São Paulo (USP), Brazil - Oct 2019 | Data Handling and Analysis Using SPSS Software"
+    "text": "Peer Reviewer\n\nInternational Journal of Public Health\nCities & Health\nCambridge Prisms: Global Mental Health\nPLOS ONE\nHygeia: Brazilian Journal of Medical and Health Geography\n\n\n\nEditorial Board\n\nSouth American Publishing: Southern Studies"
   },
   {
-    "objectID": "scientificservice.html",
-    "href": "scientificservice.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Mirela Barros Serafim",
     "section": "",
-    "text": "##Member of Organizing Committees - International Seminar of Young Researchers in Geography (University of Coimbra, Portugal) (2025) - 24th National Oceanography Week (Federal University of Santa Catarina, Brazil) (2012)\n##Member of Scientific Committees -International Seminar of Young Researchers in Geography (University of Coimbra, Portugal) (2025) - III National Meeting of Geography Students (University of Évora, Portugal) (2023)\n##External Ad Hoc Consultant - Research proposal evaluation, State University of Tocantins, Brazil (Apr–Jul 2025)\n##Member of examination committees -Undergraduate theses (4), Department of Geography, University of São Paulo, Brazil (2019–2025)\n##Entrepreneurship & academic leadership -Co-founder and Project Manager, Tétis Junior Enterprise of Oceanography, Federal University of Santa Catarina, Brazil (2009–2011)"
+    "text": "About\nHi, my name is Mirela Barros Serafim. I’m a spatial data analyst with a PhD in Geography focused on health geography. Throughout my career, I have contributed to many projects in sustainable urban development, environmental science, socioeconomic analysis, and public health, consistently integrating vulnerable populations through field-specific approaches.\n\n\nCore Competencies • GIS for sustainable development • Geospatial data processing, spatial modeling, and cartography • Data analysis, statistical modeling, and reproducible research workflows • Teaching, training facilitation, and academic mentoring • Scientific communication and international research collaboration"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Website under construction",
+    "section": "",
+    "text": "…"
   }
 ]
