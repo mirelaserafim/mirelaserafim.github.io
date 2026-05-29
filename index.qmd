@@ -9,9 +9,9 @@ Hi, my name is Mirela Barros Serafim. I'm a spatial data analyst with a PhD in G
 
 ## Core Competencies
 - GIS for sustainable development
-- Geospatial data processing, spatial modeling, and cartography
-- Data analysis, statistical modeling, and reproducible research workflows
-- Teaching, training facilitation, and academic mentoring
+- Geospatial data processing, spatial modeling and cartography
+- Data analysis, statistical modeling and reproducible research workflows
+- Teaching, training facilitation and academic mentoring
 - Scientific communication and international research collaboration
 
 </div>
