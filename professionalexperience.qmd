@@ -1,0 +1,26 @@
+---
+title: "Professional Experience"
+---
+
+- Sep 2022 – Present (Full-time) | Doctoral Researcher, Centre of Studies in Geography and Spatial Planning (CEGOT), University of Coimbra, Portugal
+Applied GIS-based spatial analysis to investigate poverty and mortality dynamics in São Paulo, focusing on temporal change, spatial scale effects, and measurement issues in urban health geography. Developed geospatial workflows for data integration and analysis supporting evidence-based research. Funding: FCT (2022.10523.BD), Portugal. Research stay: 01 Dec 2025 – 31 May 2026 | Spanish National Research Council (CSIC), Institute of Economics, Geography and Demography (IEGD), Madrid, Spain.
+
+- Sep 2017 – Feb 2022 (Full-time) | Doctoral Researcher, Department of Geography, University of São Paulo, Brazil
+Developed spatial data workflows and applied geospatial analysis to study socio-environmental determinants of infant and post-neonatal mortality in informal settlements in São Paulo. Integrated GIS-based methods with public health data for analytical modeling and spatial interpretation. Funding: CAPES (001) and FAPESP (18/05633-5 and 19/20432-9), Brazil. Research stays: 01 Jan 2020 – 01 Apr 2020; Nov 2021 – Feb 2022 | Department of Geography and Tourism, University of Coimbra, Portugal
+- Mar 2015 – Jan 2017 (Full-time) | Master’s Researcher, Oceanographic Institute, University of São Paulo (IOUSP), Brazil
+Conducted spatial and environmental analysis of coastal vulnerability to extreme events in Southern Brazil using geospatial methods. Funding: CAPES (001) and FAPESP (15/10422-5), Brazil.
+
+- Nov 2014 – Feb 2015 (Full-time) | Researcher (Postgraduate level), Federal University of Santa Catarina (UFSC), Brazil
+Developed geodatabases, processed bathymetric and sedimentological data, and produced thematic maps for a continental shelf geodiversity project. Funding: CNPq DTI-C (385369/2014-0 and 400551/2014-4), Brazil.
+
+- Aug 2013 – Jul 2014 (Part-time) | Undergraduate Researcher, Federal University of Santa Catarina (UFSC), Brazil
+Applied GIS-based spatial analysis and contributed to cartographic production in marine geodiversity research. Funding: CNPq PIBIC, Brazil.
+
+- Mar 2013 – Jul 2013 (Part-time) | Undergraduate Researcher, Federal University of Santa Catarina (UFSC), Brazil
+Developed geodatabases and supported spatial integration of marine and watershed datasets, contributing to GIS analysis and cartographic outputs for the characterization of the bottom compartment of the Arvoredo Marine Biological Reserve. Funding: CNPq PIBIC, Brazil.
+
+- Sep 2012 – Mar 2013 (Part-time) | GIS Intern, TERRA AMBIENTAL Engineering and Environmental Consultancy, São José (Greater Florianópolis), Brazil
+Produced cartographic outputs using ArcGIS, QGIS, and AutoCAD for environmental impact assessments.
+
+- Nov 2010 – Jun 2012 (Part-time) | Undergraduate Researcher, Santa Catarina Agricultural Research and Rural Extension Company (EPAGRI), Brazil
+Applied GIS and multi-criteria spatial analysis for risk and vulnerability assessment related to extreme events in Southern Brazil. Funding: CNPq ITI-A (RIMPEEXSUL-SC, 183508/2010-6), Brazil.

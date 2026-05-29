@@ -2,15 +2,15 @@
 title: "Education"
 ---
 
-#Formal education
+## Formal education
 
--PhD in Human Geography, University of Coimbra (UC), Portugal | 2022 – Present
--PhD in Physical Geography, University of São Paulo (USP), Brazil | 2017 – 2023
--Bachelor’s Degree in Geography, Claretian University Center (Claretiano), Brazil | 2016 – 2020
--MSc in Geological Oceanography, Oceanographic Institute of the University of São Paulo (IOUSP), Brazil | 2015 – 2017
--Bachelor’s Degree in Oceanography, Federal University of Santa Catarina (UFSC), Brazil | 2010 – 2014
+- PhD in Human Geography, University of Coimbra (UC), Portugal | 2022 – Present
+- PhD in Physical Geography, University of São Paulo (USP), Brazil | 2017 – 2023
+- Bachelor’s Degree in Geography, Claretian University Center (Claretiano), Brazil | 2016 – 2020
+- MSc in Geological Oceanography, Oceanographic Institute of the University of São Paulo (IOUSP), Brazil | 2015 – 2017
+- Bachelor’s Degree in Oceanography, Federal University of Santa Catarina (UFSC), Brazil | 2010 – 2014
 
-##Additional training
+## Additional training
 
 - 2025 | Impact Evaluation of Policies and Programs (2 ECTS) – Maastricht University & UN University-MERIT (Online)
 
@@ -35,6 +35,7 @@ title: "Education"
 - 2010 | Principles and Practices of ArcGIS 9.3 (30 hours) – TÉTIS Junior Oceanography Enterprise, UFSC, Brazil
 
 ## Languages 
+
 - Portuguese – Native
 - English – Advanced
 - Spanish – Advanced

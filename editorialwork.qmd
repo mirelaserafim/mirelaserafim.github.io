@@ -2,12 +2,12 @@
 title: "Editorial Work"
 ---
 
-# Peer Reviewer
+## Peer Reviewer
 - International Journal of Public Health
 - Cities & Health
 - Cambridge Prisms: Global Mental Health
 - PLOS ONE
 - Hygeia: Brazilian Journal of Medical and Health Geography
 
-# Editorial Board
+## Editorial Board
 - South American Publishing: Southern Studies
