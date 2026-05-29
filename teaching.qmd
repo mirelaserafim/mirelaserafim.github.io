@@ -1,11 +1,11 @@
 ---
 title: "Teaching Experience"
 ---
-## Teaching Assistant, Department of Geography, University of São Paulo (USP), Brazil
+### Teaching Assistant, Department of Geography, University of São Paulo (USP), Brazil
 - Jul – Dec 2021 | Planning
 - Jul – Dec 2019 | Urban Geography
 - Jul – Dec 2018 | Remote Sensing Applied to Geography
 - Jan – Jun 2018 | Spatial Analysis and Geoprocessing
 
-## Course Instructor, Department of Geography, University of São Paulo (USP), Brazil
+### Course Instructor, Department of Geography, University of São Paulo (USP), Brazil
 - Oct 2019 | Data Handling and Analysis Using SPSS Software
