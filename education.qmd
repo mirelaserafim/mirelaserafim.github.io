@@ -1,3 +1,7 @@
+---
+title: "Education"
+---
+
 #Formal education
 
 -PhD in Human Geography, University of Coimbra (UC), Portugal | 2022 – Present
@@ -6,31 +10,31 @@
 -MSc in Geological Oceanography, Oceanographic Institute of the University of São Paulo (IOUSP), Brazil | 2015 – 2017
 -Bachelor’s Degree in Oceanography, Federal University of Santa Catarina (UFSC), Brazil | 2010 – 2014
 
-#Additional training
+##Additional training
 
-2025 | Impact Evaluation of Policies and Programs (2 ECTS) – Maastricht University & UN University-MERIT (Online)
+- 2025 | Impact Evaluation of Policies and Programs (2 ECTS) – Maastricht University & UN University-MERIT (Online)
 
-2019 | Linear Regression (30 hours) – Federal University of Minas Gerais (UFMG), Brazil
+- 2019 | Linear Regression (30 hours) – Federal University of Minas Gerais (UFMG), Brazil
 
-2018 | Quantitative Analysis Using SPSS (20 hours) – Brazilian Center for Analysis and Planning (CEBRAP), Brazil
+- 2018 | Quantitative Analysis Using SPSS (20 hours) – Brazilian Center for Analysis and Planning (CEBRAP), Brazil
 
-2018 | Programming and Computational Tools for the Social Sciences (120 hours) – University of São Paulo (USP), Brazil
+- 2018 | Programming and Computational Tools for the Social Sciences (120 hours) – University of São Paulo (USP), Brazil
 
-2018 | Socio-territorial Diagnosis for the Development of Social Policies (32 hours) – FESPSP, Brazil
+- 2018 | Socio-territorial Diagnosis for the Development of Social Policies (32 hours) – FESPSP, Brazil
 
-2017 | Python Data Structures (20 hours) – University of Michigan (Online)
+- 2017 | Python Data Structures (20 hours) – University of Michigan (Online)
 
-2017 | Programming Your Own Spatial Analyses in Python (4 hours) – Rio de Janeiro State University (UERJ, Online)
+- 2017 | Programming Your Own Spatial Analyses in Python (4 hours) – Rio de Janeiro State University (UERJ, Online)
 
-2016 | Digital Processing of Remote Sensing Images (40 hours) – Rio de Janeiro State University (UERJ, Online)
+- 2016 | Digital Processing of Remote Sensing Images (40 hours) – Rio de Janeiro State University (UERJ, Online)
 
-2016 | Geostatistics: Fundamentals and Applications (24 hours) – Geokrigagem, Brazil
+- 2016 | Geostatistics: Fundamentals and Applications (24 hours) – Geokrigagem, Brazil
 
-2012 | MATLAB for Oceanographic Analysis (4 hours) – Federal University of Santa Catarina (UFSC), Brazil
+- 2012 | MATLAB for Oceanographic Analysis (4 hours) – Federal University of Santa Catarina (UFSC), Brazil
 
-2010 | Principles and Practices of ArcGIS 9.3 (30 hours) – TÉTIS Junior Oceanography Enterprise, UFSC, Brazil
+- 2010 | Principles and Practices of ArcGIS 9.3 (30 hours) – TÉTIS Junior Oceanography Enterprise, UFSC, Brazil
 
-# Languages 
+## Languages 
 - Portuguese – Native
 - English – Advanced
 - Spanish – Advanced

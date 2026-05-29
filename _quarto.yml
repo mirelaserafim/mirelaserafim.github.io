@@ -17,12 +17,8 @@ website:
         text: "Editorial Work"
       - href: teaching.qmd
         text: "Teaching"
-      - href: talks.qmd
-        text: "Talks and presentations"
       - href: scientificservice.qmd
-        text: "Other Scientific & Academic Services"
-      - href: blog.qmd
-        text: "The Geographic Perspective"
+        text: "Other Services"
 
 format:
   html:
