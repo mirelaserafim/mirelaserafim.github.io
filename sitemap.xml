@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mirelaserafim.github.io/talks.html</loc>
-    <lastmod>2026-05-27T01:00:35.918Z</lastmod>
+    <loc>https://mirelaserafim.github.io/teaching.html</loc>
+    <lastmod>2026-05-29T00:46:11.047Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mirelaserafim.github.io/professionalexperience.html</loc>
+    <lastmod>2026-05-29T00:27:11.910Z</lastmod>
   </url>
   <url>
     <loc>https://mirelaserafim.github.io/index.html</loc>
-    <lastmod>2026-05-26T23:58:02.444Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mirelaserafim.github.io/blog.html</loc>
-    <lastmod>2026-05-27T01:44:25.424Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mirelaserafim.github.io/about.html</loc>
-    <lastmod>2026-05-26T23:58:02.444Z</lastmod>
+    <lastmod>2026-05-29T00:52:57.095Z</lastmod>
   </url>
   <url>
     <loc>https://mirelaserafim.github.io/editorialwork.html</loc>
-    <lastmod>2026-05-27T01:44:20.801Z</lastmod>
+    <lastmod>2026-05-29T01:11:57.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mirelaserafim.github.io/education.html</loc>
+    <lastmod>2026-05-29T01:06:50.066Z</lastmod>
   </url>
   <url>
     <loc>https://mirelaserafim.github.io/papers.html</loc>
-    <lastmod>2026-05-27T01:50:04.846Z</lastmod>
+    <lastmod>2026-05-29T00:24:33.353Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mirelaserafim.github.io/scientificservice.html</loc>
+    <lastmod>2026-05-29T00:44:12.874Z</lastmod>
   </url>
 </urlset>

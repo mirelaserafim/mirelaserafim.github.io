@@ -1,38 +1,87 @@
 [
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Website under construction",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
     "section": "",
-    "text": "…"
+    "text": "Teaching Assistant, Department of Geography, University of São Paulo (USP), Brazil\n\nJul – Dec 2021 | Urban and Regional Planning\nJul – Dec 2019 | Urban Geography\nJul – Dec 2018 | Remote Sensing Applied to Geography\nJan – Jun 2018 | Spatial Analysis and Geoprocessing\n\n\n\nCourse Instructor, Department of Geography, University of São Paulo (USP), Brazil\n\nOct 2019 | Data Handling and Analysis Using SPSS Software"
+  },
+  {
+    "objectID": "professionalexperience.html",
+    "href": "professionalexperience.html",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Sep 2022 – Present (Full-time) | Doctoral Researcher, Centre of Studies in Geography and Spatial Planning (CEGOT), University of Coimbra, Portugal\n\nApplied GIS-based spatial analysis to investigate poverty and mortality dynamics in São Paulo, focusing on temporal change, spatial scale effects, and measurement issues in urban health geography. Developed geospatial workflows for data integration and analysis supporting evidence-based research. Funding: FCT (2022.10523.BD), Portugal. Research stay: 01 Dec 2025 – 31 May 2026 | Spanish National Research Council (CSIC), Institute of Economics, Geography and Demography (IEGD), Madrid, Spain.\n\n\n\nSep 2017 – Feb 2022 (Full-time) | Doctoral Researcher, Department of Geography, University of São Paulo, Brazil\n\nDeveloped spatial data workflows and applied geospatial analysis to study socio-environmental determinants of infant and post-neonatal mortality in informal settlements in São Paulo. Integrated GIS-based methods with public health data for analytical modeling and spatial interpretation. Funding: CAPES (001) and FAPESP (18/05633-5 and 19/20432-9), Brazil. Research stays: 01 Jan 2020 – 01 Apr 2020; Nov 2021 – Feb 2022 | Department of Geography and Tourism, University of Coimbra, Portugal\n\n\n\nMar 2015 – Jan 2017 (Full-time) | Master’s Researcher, Oceanographic Institute, University of São Paulo (IOUSP), Brazil\n\nConducted spatial and environmental analysis of coastal vulnerability to extreme events in Southern Brazil using geospatial methods. Funding: CAPES (001) and FAPESP (15/10422-5), Brazil.\n\n\n\nNov 2014 – Feb 2015 (Full-time) | Researcher (Postgraduate level), Federal University of Santa Catarina (UFSC), Brazil\n\nDeveloped geodatabases, processed bathymetric and sedimentological data, and produced thematic maps for a continental shelf geodiversity project. Funding: CNPq DTI-C (385369/2014-0 and 400551/2014-4), Brazil.\n\n\n\nAug 2013 – Jul 2014 (Part-time) | Undergraduate Researcher, Federal University of Santa Catarina (UFSC), Brazil\n\nApplied GIS-based spatial analysis and contributed to cartographic production in marine geodiversity research. Funding: CNPq PIBIC, Brazil.\n\n\n\nMar 2013 – Jul 2013 (Part-time) | Undergraduate Researcher, Federal University of Santa Catarina (UFSC), Brazil\n\nDeveloped geodatabases and supported spatial integration of marine and watershed datasets, contributing to GIS analysis and cartographic outputs for the characterization of the bottom compartment of the Arvoredo Marine Biological Reserve. Funding: CNPq PIBIC, Brazil.\n\n\n\nSep 2012 – Mar 2013 (Part-time) | GIS Intern, TERRA AMBIENTAL Engineering and Environmental Consultancy, São José (Greater Florianópolis), Brazil\n\nProduced cartographic outputs using ArcGIS, QGIS, and AutoCAD for environmental impact assessments.\n\n\n\nNov 2010 – Jun 2012 (Part-time) | Undergraduate Researcher, Santa Catarina Agricultural Research and Rural Extension Company (EPAGRI), Brazil\n\nApplied GIS and multi-criteria spatial analysis for risk and vulnerability assessment related to extreme events in Southern Brazil. Funding: CNPq ITI-A (RIMPEEXSUL-SC, 183508/2010-6), Brazil."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mirela Barros Serafim",
     "section": "",
-    "text": "About\nHi, my name is Mirela Barros Serafim. I’m a spatial data analyst with a PhD in Geography focused on health geography. Throughout my career, I have contributed to many projects in sustainable urban development, environmental science, socioeconomic analysis, and public health, consistently integrating vulnerable populations through field-specific approaches."
+    "text": "Hi, my name is Mirela Barros Serafim. I’m a spatial data analyst with a PhD in Geography focused on health geography. Throughout my career, I have contributed to many projects in sustainable urban development, environmental science, socioeconomic analysis, and public health.\n\n\n\n\nGIS for sustainable development\nGeospatial data processing, spatial modeling and cartography\nData analysis, statistical modeling and reproducible research workflows\nTeaching, training facilitation and academic mentoring\nScientific communication and international research collaboration"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Website under construction",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Mirela Barros Serafim",
     "section": "",
-    "text": "…"
+    "text": "Hi, my name is Mirela Barros Serafim. I’m a spatial data analyst with a PhD in Geography focused on health geography. Throughout my career, I have contributed to many projects in sustainable urban development, environmental science, socioeconomic analysis, and public health."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#core-competencies",
+    "href": "index.html#core-competencies",
+    "title": "Mirela Barros Serafim",
     "section": "",
-    "text": "About this site"
+    "text": "GIS for sustainable development\nGeospatial data processing, spatial modeling and cartography\nData analysis, statistical modeling and reproducible research workflows\nTeaching, training facilitation and academic mentoring\nScientific communication and international research collaboration"
   },
   {
     "objectID": "editorialwork.html",
     "href": "editorialwork.html",
-    "title": "Website under construction",
+    "title": "Peer Review & Editorial Service",
     "section": "",
-    "text": "…"
+    "text": "International Journal of Public Health\nCities & Health\nCambridge Prisms: Global Mental Health\nPLOS ONE\nHygeia: Brazilian Journal of Medical and Health Geography"
+  },
+  {
+    "objectID": "editorialwork.html#peer-reviewer",
+    "href": "editorialwork.html#peer-reviewer",
+    "title": "Peer Review & Editorial Service",
+    "section": "",
+    "text": "International Journal of Public Health\nCities & Health\nCambridge Prisms: Global Mental Health\nPLOS ONE\nHygeia: Brazilian Journal of Medical and Health Geography"
+  },
+  {
+    "objectID": "editorialwork.html#editorial-board",
+    "href": "editorialwork.html#editorial-board",
+    "title": "Peer Review & Editorial Service",
+    "section": "Editorial Board",
+    "text": "Editorial Board\n\nSouthern Studies (South American Publishing)"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "PhD in Human Geography, University of Coimbra (UC), Portugal | 2022 – Present\nPhD in Physical Geography, University of São Paulo (USP), Brazil | 2017 – 2023\nBachelor’s degree in Geography (teacher training programme), Claretian University Center (Claretiano), Brazil | 2016 – 2020\nMSc in Geological Oceanography, Oceanographic Institute of the University of São Paulo (IOUSP), Brazil | 2015 – 2017\nBSc in Oceanography, Federal University of Santa Catarina (UFSC), Brazil | 2010 – 2014"
+  },
+  {
+    "objectID": "education.html#formal-education",
+    "href": "education.html#formal-education",
+    "title": "Education",
+    "section": "",
+    "text": "PhD in Human Geography, University of Coimbra (UC), Portugal | 2022 – Present\nPhD in Physical Geography, University of São Paulo (USP), Brazil | 2017 – 2023\nBachelor’s degree in Geography (teacher training programme), Claretian University Center (Claretiano), Brazil | 2016 – 2020\nMSc in Geological Oceanography, Oceanographic Institute of the University of São Paulo (IOUSP), Brazil | 2015 – 2017\nBSc in Oceanography, Federal University of Santa Catarina (UFSC), Brazil | 2010 – 2014"
+  },
+  {
+    "objectID": "education.html#additional-courses",
+    "href": "education.html#additional-courses",
+    "title": "Education",
+    "section": "Additional courses",
+    "text": "Additional courses\n\nImpact Evaluation of Policies and Programs (2 ECTS) – Maastricht University & UN University-MERIT (Online)\nLinear Regression (30 hours) – Federal University of Minas Gerais (UFMG), Brazil\nQuantitative Analysis Using SPSS (20 hours) – Brazilian Center for Analysis and Planning (CEBRAP), Brazil\nProgramming and Computational Tools for the Social Sciences (120 hours) – University of São Paulo (USP), Brazil\nSocio-territorial Diagnosis for the Development of Social Policies (32 hours) – FESPSP, Brazil\nPython Data Structures (20 hours) – University of Michigan (Online)\nProgramming Your Own Spatial Analyses in Python (4 hours) – Rio de Janeiro State University (UERJ, Online)\nDigital Processing of Remote Sensing Images (40 hours) – Rio de Janeiro State University (UERJ, Online)\nGeostatistics: Fundamentals and Applications (24 hours) – Geokrigagem, Brazil\nMATLAB for Oceanographic Analysis (4 hours) – Federal University of Santa Catarina (UFSC), Brazil\nPrinciples and Practices of ArcGIS 9.3 (30 hours) – TÉTIS Junior Oceanography Enterprise, UFSC, Brazil"
+  },
+  {
+    "objectID": "education.html#languages",
+    "href": "education.html#languages",
+    "title": "Education",
+    "section": "Languages",
+    "text": "Languages\n\nPortuguese – Native\nEnglish – Advanced\nSpanish – Advanced"
   },
   {
     "objectID": "papers.html",
@@ -67,6 +116,13 @@
     "href": "papers.html#undergraduate-thesis",
     "title": "Publications",
     "section": "Undergraduate Thesis",
-    "text": "Undergraduate Thesis\nAccess thesis\nApplication of a Multicriteria Vulnerability Index to Extreme Events on Santa Catarina State Beaches Using Spatial Analysis\nAbstract: The coastal zone of Santa Catarina state is submitted to particular oceanographic and meteorological conditions. The passage of cold fronts over this area influences extreme events of meteorological tides associated to storm waves (storm surges), which can lead to episodes of flooding by sea water and beach erosion causing damage to the coastal zone - especially when associated with astronomical spring tides. Since the sandy beaches are the predominant environments along Santa Catarina’s coastline and have high social and economic value due to the variety of activities undertaken at these sites and the high population density in coastal cities, the study of coastal vulnerability becomes of great relevance. The term “vulnerability” was understood, as defined by CEPAL (2012a), as the ability of an area to anticipate, cope with, resist and recover from the impact of a particular agent, due to its multiple physical and socioeconomic aspects. Thus, this study presents a methodological alternative for the mapping of coastal vulnerability to extreme events of waves and tides, in Santa Catarina state, from the creation of a multicriteria index and the use of a Geographical Information System. The final model of vulnerability was obtained from the integration between two other sub-models: the adaptive capacity model (composed by socioeconomic variables) and the susceptibility model (consisting of environmental variables). The results were presented in the sectors defined by GERCO/SC. The highest values of vulnerability were found in central portions of the north and central-north sectors and in segments at the north of the central sector. In some segments the socioeconomic factors had great relevance. An example is the presence of large settlements in central-north sector (such as the cities of Balneario Camboriu, Itapema and Navegantes), where the vulnerability degrees were lower than the susceptibility degrees in most cases. The pattern found for these large agglomerations can be justified by their high levels of adaptive capacity, for which the income is usually high and it is expressive the presence of houses for occasional use. On the other hand, the south and south-central sectors showed relatively low levels of adaptive capacity, but even so they were the least vulnerable, indicating that the scenario of low susceptibility, determined by environmental factors, is of great importance in these regions."
+    "text": "Undergraduate Thesis\nAccess thesis\nApplication of a Multicriteria Vulnerability Index to Extreme Events on Santa Catarina State Beaches Using Spatial Analysis | UFSC, 2014\nAbstract: The coastal zone of Santa Catarina state is submitted to particular oceanographic and meteorological conditions. The passage of cold fronts over this area influences extreme events of meteorological tides associated to storm waves (storm surges), which can lead to episodes of flooding by sea water and beach erosion causing damage to the coastal zone - especially when associated with astronomical spring tides. Since the sandy beaches are the predominant environments along Santa Catarina’s coastline and have high social and economic value due to the variety of activities undertaken at these sites and the high population density in coastal cities, the study of coastal vulnerability becomes of great relevance. The term “vulnerability” was understood, as defined by CEPAL (2012a), as the ability of an area to anticipate, cope with, resist and recover from the impact of a particular agent, due to its multiple physical and socioeconomic aspects. Thus, this study presents a methodological alternative for the mapping of coastal vulnerability to extreme events of waves and tides, in Santa Catarina state, from the creation of a multicriteria index and the use of a Geographical Information System. The final model of vulnerability was obtained from the integration between two other sub-models: the adaptive capacity model (composed by socioeconomic variables) and the susceptibility model (consisting of environmental variables). The results were presented in the sectors defined by GERCO/SC. The highest values of vulnerability were found in central portions of the north and central-north sectors and in segments at the north of the central sector. In some segments the socioeconomic factors had great relevance. An example is the presence of large settlements in central-north sector (such as the cities of Balneario Camboriu, Itapema and Navegantes), where the vulnerability degrees were lower than the susceptibility degrees in most cases. The pattern found for these large agglomerations can be justified by their high levels of adaptive capacity, for which the income is usually high and it is expressive the presence of houses for occasional use. On the other hand, the south and south-central sectors showed relatively low levels of adaptive capacity, but even so they were the least vulnerable, indicating that the scenario of low susceptibility, determined by environmental factors, is of great importance in these regions."
+  },
+  {
+    "objectID": "scientificservice.html",
+    "href": "scientificservice.html",
+    "title": "Other Scientific & Academic Services",
+    "section": "",
+    "text": "Organizing Committee Member\n\nInternational Seminar of Young Researchers in Geography (University of Coimbra, Portugal, 2025)\n24th National Oceanography Week (Federal University of Santa Catarina, Brazil, 2012)\n\n\n\nScientific Committee Member\n\nInternational Seminar of Young Researchers in Geography (University of Coimbra, Portugal, 2025)\nIII National Meeting of Geography Students (University of Évora, Portugal, 2023)\n\n\n\nAd hoc External Consultant\n\nResearch proposal evaluation, State University of Tocantins, Brazil (Apr–Jul 2025)\n\n\n\nMember of Examination Committees\n\n4 undergraduate theses, Department of Geography, University of São Paulo, Brazil (2019–2025)\n\n\n\nEntrepreneurship & Leadership\n\nCo-founder and Project Manager, Tétis Junior Enterprise of Oceanography, Federal University of Santa Catarina, Brazil (2009–2011)"
   }
 ]
